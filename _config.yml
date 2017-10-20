@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Ankur Garg"
 title_separator          : "-"
 name                     : &name "Ankur garg"
-description              : &description "Member of Technical Staff At Adobe Research India"
+description              : &description "Member of Technical Staff At Big Data Experience Lab, Adobe Research"
 url                      : https://ankurgarg101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ankurgarg101.github.io"
@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Ankur Garg"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile_pic.jpg"
+  bio              : "Explorer, Thinker, Cricket Enthusiast"
   location         : "Bangalore, India"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ankurgarg101"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "ankurgarg101"
   orcid            : "http://orcid.org/0000-0002-0008-5900"
   pinterest        :
   soundcloud       :
