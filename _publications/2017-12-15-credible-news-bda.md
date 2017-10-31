@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-12-15-credible-news-bda
 excerpt: 'This paper is about mining credible and relevant news from Twitter.'
 date: 2017-12-15
-venue: 'The Fifth International Conference on Big Data Analytics (BDA 2017)'
+venue: 'The Fifth International Conference on Big Data Analytics (BDA 2017) (Full Paper Acceptance Rate: 12%)'
 paperurl: ''
 citation: 'Ankur Garg, Varun Syal, Pankaj Gudlani, and Dhaval Patel. 2017. Mining Credible and Relevant News from Social Networks. In the Fifth International Conference on Big Data Analytics (BDA 2017), Hyderabad, India, December 12-15, 2017, 14 pages.'
 ---
