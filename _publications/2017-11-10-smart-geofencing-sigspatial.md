@@ -15,6 +15,6 @@ Experiments on real world e-commerce dataset reveals that geo-fences designed by
 
 <!--
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
--->
 
 Recommended citation: Ankur Garg, Sunav Choudhary, Payal Bajaj, Sweta Agrawal, Abhishek Kedia, and Shubham Agrawal. 2017. Smart Geo-fencing with Location Sensitive Product Affinity. In Proceedings of SIGSPATIAL’17, Los Angeles Area, CA, USA, November 7–10, 2017, 10 pages.
+-->
