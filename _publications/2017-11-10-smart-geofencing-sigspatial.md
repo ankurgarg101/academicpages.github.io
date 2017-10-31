@@ -5,7 +5,7 @@ permalink: /publication/2017-11-10-smart-geofencing-sigspatial
 excerpt: 'This paper is about designing personalized geo-fenes for different user segments in an algorithmic manner based on location based user affinity for a product/service.'
 date: 2017-11-10
 venue: '25th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2017)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 citation: 'Ankur Garg, Sunav Choudhary, Payal Bajaj, Sweta Agrawal, Abhishek Kedia, and Shubham Agrawal. 2017. Smart Geo-fencing with Location Sensitive Product Affinity. In Proceedings of SIGSPATIAL’17, Los Angeles Area, CA, USA, November 7–10, 2017, 10 pages.'
 ---
 
