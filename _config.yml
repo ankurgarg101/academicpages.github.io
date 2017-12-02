@@ -86,7 +86,7 @@ author:
   bio              : "Explorer, Thinker, Cricket Enthusiast"
   location         : "Bangalore, India"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "ankurgarg101"
-  orcid            : "http://orcid.org/0000-0002-0008-5900"
+  orcid            : #"http://orcid.org/0000-0002-0008-5900"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
